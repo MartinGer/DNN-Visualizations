@@ -10,6 +10,8 @@ Following methods are implemented:
 - ScoreCAM: https://arxiv.org/pdf/1910.01279.pdf
 
 ## Examples
+![fish](https://user-images.githubusercontent.com/19909320/137497864-d94d0ab4-d087-41da-a789-610f8de57737.png)
+
 See the jupyter notebook
 
 ## Requirements
